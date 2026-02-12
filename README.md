@@ -31,7 +31,7 @@
 
 [reqwest](https://github.com/seanmonstar/reqwest) An easy and powerful Rust HTTP Client.
 
-[directories](https://codeberg.org/dirs/directories-rs) a mid-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows https://dirs.dev
+[dirs](https://codeberg.org/dirs/dirs-rs) a low-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows https://dirs.dev
 
 [SQLX](https://github.com/launchbadge/sqlx) 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 
