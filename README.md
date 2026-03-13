@@ -12,6 +12,8 @@
 
 [PI Hole](https://github.com/pi-hole/pi-hole) A black hole for Internet advertisements.
 
+[Krita](https://github.com/KDE/krita) is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
+
 [Blender](https://projects.blender.org/BLENDER/BLENDER) you know, Blender.
 
 [Blockbench](https://github.com/JannisX11/blockbench) a low poly 3D model editor.
