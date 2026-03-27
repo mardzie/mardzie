@@ -10,7 +10,7 @@
 
 [Meshtastic](https://github.com/meshtastic) Open Source, decentralized mesh networking ecosystem.
 
-[PI Hole](https://github.com/pi-hole/pi-hole) A black hole for Internet advertisements.
+[Pi-hole](https://github.com/pi-hole/pi-hole) A black hole for Internet advertisements.
 
 [Krita](https://github.com/KDE/krita) is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
 
