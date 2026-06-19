@@ -54,6 +54,8 @@
 
 [Serde JSON](https://github.com/serde-rs/json) Strongly typed JSON library for Rust.
 
+[Turso](https://github.com/tursodatabase/turso) Turso is an in-process SQL database, compatible with SQLite.
+
 [RustCrypto](https://github.com/RustCrypto) Cryptographic algorithms written in pure Rust.
 
 [Rust GPU](https://github.com/rust-gpu/rust-gpu) 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧.
