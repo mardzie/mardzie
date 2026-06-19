@@ -2,7 +2,14 @@
 
 :)
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## My favorite open source projects
 
@@ -32,6 +39,8 @@
 [Iced](https://github.com/iced-rs/iced) A cross-platform GUI library for Rust, inspired by Elm.
 
 [reqwest](https://github.com/seanmonstar/reqwest) An easy and powerful Rust HTTP Client.
+
+[glam](https://github.com/bitshifter/glam-rs) A simple and fast linear algebra library for games and graphics.
 
 [dirs](https://codeberg.org/dirs/dirs-rs) a low-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows https://dirs.dev
 
