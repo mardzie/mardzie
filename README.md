@@ -42,6 +42,8 @@
 
 [glam](https://github.com/bitshifter/glam-rs) A simple and fast linear algebra library for games and graphics.
 
+[pulp](https://github.com/sarah-quinones/pulp/) pulp is a safe abstraction over SIMD instructions, that allows you to write a function once and dispatch to equivalent vectorized versions based on the features detected at runtime.
+
 [dirs](https://codeberg.org/dirs/dirs-rs) a low-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows https://dirs.dev
 
 [SQLX](https://github.com/launchbadge/sqlx) 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
